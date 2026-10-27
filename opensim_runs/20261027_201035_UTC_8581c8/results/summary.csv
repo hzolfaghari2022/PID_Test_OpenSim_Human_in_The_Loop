@@ -1,0 +1,2 @@
+any_clipping_percent,experiment,motion_mae_deg,motion_peak_abs_error_deg,motion_peak_tension_N,motion_rmse_deg,opensim_version,results_folder,status,upper_limit_percent,zero_tension_percent
+50.0,slow,11.148881836978068,32.687723868925715,80.0,15.625583303698825,4.6-2026-06-22-85aaf64,C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_GitHub\Arm26\speed_test_results\20261027_201035_UTC_8581c8\slow,completed,50.0,0.0

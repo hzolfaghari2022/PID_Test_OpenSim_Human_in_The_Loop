@@ -1,0 +1,19 @@
+{
+  "rmse_limit_deg": 2.0,
+  "peak_limit_deg": 5.0,
+  "results": [
+    {
+      "experiment": "slow",
+      "status": "completed",
+      "rmse_deg": 15.625583303698827,
+      "peak_error_deg": 32.687723868925715,
+      "lifting_rmse_deg": 15.431242192871789,
+      "lowering_rmse_deg": 15.817536835632673,
+      "upper_saturation_percent": 50.0,
+      "lower_clipping_percent": 0.0,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "Error and command clipping coexist. Inspect their timing; this alone does not prove clipping caused all errors."
+    }
+  ]
+}

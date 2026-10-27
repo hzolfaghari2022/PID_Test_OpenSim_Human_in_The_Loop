@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Arm26 simulation results</title>
+<style>body{font:18px Georgia,serif;max-width:1200px;margin:32px auto;padding:0 24px;background:#f3f5f7;color:#17212b}section{background:white;padding:20px;margin:24px 0;border:1px solid #ddd;border-radius:8px}img{width:100%;height:auto}a{color:#125ab0}pre{white-space:pre-wrap;font:16px/1.5 Georgia,serif}h2{font-size:21px}</style>
+<h1>Arm26 simulation results</h1><p>Click a figure to open it at full size. Use your browser zoom to inspect details.</p><p>Run: 20261027_201035_UTC_8581c8</p><pre>FIXED-GAIN CONTROLLER ASSESSMENT
+
+Selected illustrative limits: motion RMSE &lt;= 2 deg and peak error &lt;= 5 deg.
+These are configurable engineering criteria, not validated clinical limits.
+
+slow: DOES NOT MEET SELECTED ERROR LIMITS
+  RMSE 15.626 deg; peak error 32.688 deg; upper cap 50.0%; negative requested torque 0.0%.
+  Error and command clipping coexist. Inspect their timing; this alone does not prove clipping caused all errors.
+
+What these results answer: whether the selected fixed gains meet the selected limits for the tested model, load and speeds.
+What they cannot establish: that PID is incapable after fair tuning, or that a neural network is necessary or superior.
+The supplied controller is PI when Kv=0. Positive Kv adds actual-velocity damping, not full error-derivative PID.
+The single flexor cable cannot actively produce extension torque. A neural network does not remove that physical limitation.
+RMSE excludes holds; failed trials remain failures. No automatic gain tuning is performed.
+</pre><section><h2>diagnostic speed summary.png</h2><p><a href="diagnostic_speed_summary.png" target="_blank">Open full-size figure</a> | <a href="diagnostic_speed_summary.pdf">Open PDF</a></p><a href="diagnostic_speed_summary.png" target="_blank"><img src="diagnostic_speed_summary.png" alt="diagnostic speed summary.png" loading="lazy"></a></section><section><h2>normalized motion comparison.png</h2><p><a href="normalized_motion_comparison.png" target="_blank">Open full-size figure</a> | <a href="normalized_motion_comparison.pdf">Open PDF</a></p><a href="normalized_motion_comparison.png" target="_blank"><img src="normalized_motion_comparison.png" alt="normalized motion comparison.png" loading="lazy"></a></section><section><h2>speed comparison.png</h2><p><a href="speed_comparison.png" target="_blank">Open full-size figure</a> | <a href="speed_comparison.pdf">Open PDF</a></p><a href="speed_comparison.png" target="_blank"><img src="speed_comparison.png" alt="speed comparison.png" loading="lazy"></a></section><section><h2>tracking and actuation limits.png</h2><p><a href="tracking_and_actuation_limits.png" target="_blank">Open full-size figure</a> | <a href="tracking_and_actuation_limits.pdf">Open PDF</a></p><a href="tracking_and_actuation_limits.png" target="_blank"><img src="tracking_and_actuation_limits.png" alt="tracking and actuation limits.png" loading="lazy"></a></section><section><h2>slow/tracking.png</h2><p><a href="slow/tracking.png" target="_blank">Open full-size figure</a> | <a href="slow/tracking.pdf">Open PDF</a></p><a href="slow/tracking.png" target="_blank"><img src="slow/tracking.png" alt="slow/tracking.png" loading="lazy"></a></section></html>

@@ -1,0 +1,14 @@
+FIXED-GAIN CONTROLLER ASSESSMENT
+
+Selected illustrative limits: motion RMSE <= 2 deg and peak error <= 5 deg.
+These are configurable engineering criteria, not validated clinical limits.
+
+slow: DOES NOT MEET SELECTED ERROR LIMITS
+  RMSE 15.626 deg; peak error 32.688 deg; upper cap 50.0%; negative requested torque 0.0%.
+  Error and command clipping coexist. Inspect their timing; this alone does not prove clipping caused all errors.
+
+What these results answer: whether the selected fixed gains meet the selected limits for the tested model, load and speeds.
+What they cannot establish: that PID is incapable after fair tuning, or that a neural network is necessary or superior.
+The supplied controller is PI when Kv=0. Positive Kv adds actual-velocity damping, not full error-derivative PID.
+The single flexor cable cannot actively produce extension torque. A neural network does not remove that physical limitation.
+RMSE excludes holds; failed trials remain failures. No automatic gain tuning is performed.

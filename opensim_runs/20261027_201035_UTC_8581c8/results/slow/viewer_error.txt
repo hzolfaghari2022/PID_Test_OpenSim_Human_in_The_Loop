@@ -1,0 +1,10 @@
+VIEWER PROBLEM at first frame / live dashboard: TypeError: 'ArrayStr' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_GitHub\Arm26\Python\run_arm26_pi_github.py", line 606, in run_trial
+    display = LiveDisplay(osim, model, args, args.plt, state)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_GitHub\Arm26\Python\run_arm26_pi_github.py", line 364, in __init__
+    if list(original_names) != list(display_names):
+       ^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ArrayStr' object is not iterable
+
