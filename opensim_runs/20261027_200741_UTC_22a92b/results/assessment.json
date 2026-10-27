@@ -1,0 +1,71 @@
+{
+  "rmse_limit_deg": 2.0,
+  "peak_limit_deg": 5.0,
+  "results": [
+    {
+      "experiment": "slow",
+      "status": "completed",
+      "rmse_deg": 2.0700312680549975,
+      "peak_error_deg": 3.6282801789061585,
+      "lifting_rmse_deg": 2.170207049985275,
+      "lowering_rmse_deg": 1.9647545041671164,
+      "upper_saturation_percent": 0.0,
+      "lower_clipping_percent": 0.0,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "No detected clipping during motion. Investigate gains, velocity feedback and model-based compensation before selecting a neural controller."
+    },
+    {
+      "experiment": "original_speed",
+      "status": "completed",
+      "rmse_deg": 2.211600127444589,
+      "peak_error_deg": 4.043149573184068,
+      "lifting_rmse_deg": 2.348398425680324,
+      "lowering_rmse_deg": 2.0657625908337143,
+      "upper_saturation_percent": 0.0,
+      "lower_clipping_percent": 0.0,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "No detected clipping during motion. Investigate gains, velocity feedback and model-based compensation before selecting a neural controller."
+    },
+    {
+      "experiment": "medium",
+      "status": "completed",
+      "rmse_deg": 2.337018094909702,
+      "peak_error_deg": 4.637380591651171,
+      "lifting_rmse_deg": 2.5318960447785135,
+      "lowering_rmse_deg": 2.1243374426643387,
+      "upper_saturation_percent": 0.0,
+      "lower_clipping_percent": 0.0,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "No detected clipping during motion. Investigate gains, velocity feedback and model-based compensation before selecting a neural controller."
+    },
+    {
+      "experiment": "fast",
+      "status": "completed",
+      "rmse_deg": 2.490687390451592,
+      "peak_error_deg": 5.400897627784974,
+      "lifting_rmse_deg": 2.778699323953093,
+      "lowering_rmse_deg": 2.1646887584527588,
+      "upper_saturation_percent": 0.0,
+      "lower_clipping_percent": 4.0,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "Error and command clipping coexist. Inspect their timing; this alone does not prove clipping caused all errors."
+    },
+    {
+      "experiment": "changing_speed",
+      "status": "completed",
+      "rmse_deg": 2.1846909818464195,
+      "peak_error_deg": 3.9322303407075134,
+      "lifting_rmse_deg": 2.338030201489562,
+      "lowering_rmse_deg": 2.0197435850238077,
+      "upper_saturation_percent": 0.0,
+      "lower_clipping_percent": 0.6,
+      "meets_selected_limits": false,
+      "verdict": "DOES NOT MEET SELECTED ERROR LIMITS",
+      "interpretation": "Error and command clipping coexist. Inspect their timing; this alone does not prove clipping caused all errors."
+    }
+  ]
+}
