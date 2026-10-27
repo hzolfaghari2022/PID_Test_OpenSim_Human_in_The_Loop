@@ -1,0 +1,4 @@
+# Use your existing OpenSim 4.6 Python environment (lstm-py312).
+matplotlib
+numpy
+# OpenSim Python bindings are also required. OpenSim is not bundled.

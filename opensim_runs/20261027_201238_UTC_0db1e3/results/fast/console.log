@@ -1,0 +1,6 @@
+Running PI: Kp=30.0, Ki=15.0, Kv=0.0
+  PI: 2.0 s simulated
+  PI: 4.0 s simulated
+  PI: 6.0 s simulated
+  PI: 8.0 s simulated
+PI: RMSE 2.482 deg; final error -2.321 deg; peak tension 38.93 N

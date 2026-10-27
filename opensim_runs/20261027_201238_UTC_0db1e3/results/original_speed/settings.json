@@ -1,0 +1,22 @@
+{
+  "name": "original_speed",
+  "legs": [
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0
+  ],
+  "model": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_GitHub\\Arm26\\arm26_exosuit.osim",
+  "output": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_GitHub\\Arm26\\speed_test_results\\20261027_201238_UTC_0db1e3\\original_speed",
+  "mass_kg": 0.0,
+  "kp": 30.0,
+  "ki": 15.0,
+  "kv": 0.0,
+  "tmax": 80.0,
+  "dt": 0.01,
+  "live": false
+}
