@@ -1,0 +1,15 @@
+3D viewer: C:\OpenSim 4.6\bin\simbody-visualizer.exe
+VIEWER: initializing the 3D model...
+VIEWER: drawing the initial model state...
+VIEWER PROBLEM at window title: TypeError: in method 'SimTKVisualizer_setWindowTitle', argument 2 of type 'String const &'
+
+Details saved to: C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_Live_Settings\Arm26\speed_test_results\20261028_142316_UTC_cbe220\fast\viewer_error.txt
+VIEWER: initial frame sent. Opening all six live plots...
+Running PI: Kp=30.0, Ki=15.0, Kv=0.0
+[warning] Coordinate.setValue:  coordinate r_shoulder_elev is locked. Unable to change its value.
+  PI: 2.0 s simulated
+  PI: 4.0 s simulated
+  PI: 6.0 s simulated
+  PI: 8.0 s simulated
+PI: RMSE 12.508 deg; final error -1.138 deg; peak tension 80.00 N
+VIEWER: automatically replaying the actual recorded motion. Close the live plots when finished to continue to GitHub upload.

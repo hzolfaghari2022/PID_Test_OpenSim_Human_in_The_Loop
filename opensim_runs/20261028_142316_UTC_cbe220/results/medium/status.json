@@ -1,0 +1,13 @@
+{
+  "experiment": "medium",
+  "status": "completed",
+  "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\medium",
+  "motion_rmse_deg": 14.717840774405245,
+  "motion_mae_deg": 11.550301785342267,
+  "motion_peak_abs_error_deg": 28.027291198449767,
+  "motion_peak_tension_N": 80.0,
+  "upper_limit_percent": 61.5625,
+  "zero_tension_percent": 0.0,
+  "any_clipping_percent": 61.5625,
+  "opensim_version": "4.6-2026-06-22-85aaf64"
+}

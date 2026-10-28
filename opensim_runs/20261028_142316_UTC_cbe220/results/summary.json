@@ -1,0 +1,67 @@
+[
+  {
+    "experiment": "slow",
+    "status": "completed",
+    "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\slow",
+    "motion_rmse_deg": 15.625583303698825,
+    "motion_mae_deg": 11.148881836978068,
+    "motion_peak_abs_error_deg": 32.687723868925715,
+    "motion_peak_tension_N": 80.0,
+    "upper_limit_percent": 50.0,
+    "zero_tension_percent": 0.0,
+    "any_clipping_percent": 50.0,
+    "opensim_version": "4.6-2026-06-22-85aaf64"
+  },
+  {
+    "experiment": "original_speed",
+    "status": "completed",
+    "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\original_speed",
+    "motion_rmse_deg": 15.448905111755577,
+    "motion_mae_deg": 11.098936089941153,
+    "motion_peak_abs_error_deg": 33.183896525326475,
+    "motion_peak_tension_N": 80.0,
+    "upper_limit_percent": 52.416666666666664,
+    "zero_tension_percent": 0.0,
+    "any_clipping_percent": 52.416666666666664,
+    "opensim_version": "4.6-2026-06-22-85aaf64"
+  },
+  {
+    "experiment": "medium",
+    "status": "completed",
+    "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\medium",
+    "motion_rmse_deg": 14.717840774405245,
+    "motion_mae_deg": 11.550301785342267,
+    "motion_peak_abs_error_deg": 28.027291198449767,
+    "motion_peak_tension_N": 80.0,
+    "upper_limit_percent": 61.5625,
+    "zero_tension_percent": 0.0,
+    "any_clipping_percent": 61.5625,
+    "opensim_version": "4.6-2026-06-22-85aaf64"
+  },
+  {
+    "experiment": "fast",
+    "status": "completed",
+    "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\fast",
+    "motion_rmse_deg": 13.588365990677493,
+    "motion_mae_deg": 11.109585663594595,
+    "motion_peak_abs_error_deg": 28.849318672202962,
+    "motion_peak_tension_N": 80.0,
+    "upper_limit_percent": 61.25,
+    "zero_tension_percent": 0.375,
+    "any_clipping_percent": 61.625,
+    "opensim_version": "4.6-2026-06-22-85aaf64"
+  },
+  {
+    "experiment": "changing_speed",
+    "status": "completed",
+    "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\changing_speed",
+    "motion_rmse_deg": 15.119235629162805,
+    "motion_mae_deg": 11.192615713039974,
+    "motion_peak_abs_error_deg": 33.91167897377807,
+    "motion_peak_tension_N": 80.0,
+    "upper_limit_percent": 56.05,
+    "zero_tension_percent": 0.85,
+    "any_clipping_percent": 56.9,
+    "opensim_version": "4.6-2026-06-22-85aaf64"
+  }
+]

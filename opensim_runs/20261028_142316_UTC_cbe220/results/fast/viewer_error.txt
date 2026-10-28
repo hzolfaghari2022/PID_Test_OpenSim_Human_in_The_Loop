@@ -1,0 +1,12 @@
+VIEWER PROBLEM at window title: TypeError: in method 'SimTKVisualizer_setWindowTitle', argument 2 of type 'String const &'
+Traceback (most recent call last):
+  File "C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_Live_Settings\Arm26\Python\run_arm26_pi_github.py", line 477, in configure_view
+    action()
+  File "C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Final_Test_PI_NN\Arm26_Live_Settings\Arm26\Python\run_arm26_pi_github.py", line 466, in <lambda>
+    ("window title",lambda:self.native.setWindowTitle("Arm26: elbow and dumbbell | actual simulation")),
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hzlfghri\miniconda3\envs\lstm-py312\Lib\site-packages\opensim\simbody.py", line 17583, in setWindowTitle
+    return _simbody.SimTKVisualizer_setWindowTitle(self, title)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: in method 'SimTKVisualizer_setWindowTitle', argument 2 of type 'String const &'
+

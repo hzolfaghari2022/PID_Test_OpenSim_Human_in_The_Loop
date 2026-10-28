@@ -1,0 +1,13 @@
+{
+  "experiment": "changing_speed",
+  "status": "completed",
+  "results_folder": "C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Final_Test_PI_NN\\Arm26_Live_Settings\\Arm26\\speed_test_results\\20261028_142316_UTC_cbe220\\changing_speed",
+  "motion_rmse_deg": 15.119235629162805,
+  "motion_mae_deg": 11.192615713039974,
+  "motion_peak_abs_error_deg": 33.91167897377807,
+  "motion_peak_tension_N": 80.0,
+  "upper_limit_percent": 56.05,
+  "zero_tension_percent": 0.85,
+  "any_clipping_percent": 56.9,
+  "opensim_version": "4.6-2026-06-22-85aaf64"
+}
