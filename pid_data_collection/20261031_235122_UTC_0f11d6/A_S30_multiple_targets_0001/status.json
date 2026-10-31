@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_S30_multiple_targets_0001",
+  "task": "A",
+  "split": "train",
+  "status": "completed",
+  "accepted_for_imitation": true,
+  "error": "",
+  "all_samples": {
+    "rmse_deg": 0.3547931933287262,
+    "mae_deg": 0.3148556793412446,
+    "max_abs_error_deg": 0.57675688329897,
+    "peak_tension_N": 523.403353557229,
+    "mean_tension_N": 429.56028391013854,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 37.90071416637194,
+    "peak_actual_hand_speed_m_s": 0.2984261252461619
+  },
+  "motion_only": {
+    "rmse_deg": 0.3830900243606586,
+    "mae_deg": 0.35605966642692877,
+    "max_abs_error_deg": 0.57675688329897,
+    "peak_tension_N": 523.403353557229,
+    "mean_tension_N": 417.62607291664244,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 37.90071416637194,
+    "peak_actual_hand_speed_m_s": 0.2984261252461619
+  },
+  "sample_count": 4832,
+  "wall_seconds": 17.627566300099716,
+  "last_recorded_time_s": 9.661789265079854
+}
