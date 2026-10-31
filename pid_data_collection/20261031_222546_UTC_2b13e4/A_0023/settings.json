@@ -1,0 +1,49 @@
+{
+  "episodes_per_task": 100,
+  "seed": 20261030,
+  "start_deg": 24.84467731861797,
+  "target_deg": 80.0,
+  "start_deg_range": [
+    15.0,
+    25.0
+  ],
+  "initial_offset_deg_range": [
+    -1.0,
+    1.0
+  ],
+  "speed_factor_range": [
+    0.9,
+    1.1
+  ],
+  "cycles": 2,
+  "start_hold_s": 0.5,
+  "end_hold_s": 1.0,
+  "kp": 1000.0,
+  "ki": 50.0,
+  "kd": 60.0,
+  "force_cap_N": 650.0,
+  "dt_s": 0.002,
+  "integrator_accuracy": 1e-06,
+  "muscle_excitation": 0.01,
+  "strength_scale": 1.0,
+  "preload_integral": true,
+  "accept_rmse_deg": 2.0,
+  "accept_max_error_deg": 5.0,
+  "episode_timeout_s": 600,
+  "save_episode_plots": true,
+  "mass_factor_range": [
+    0.98,
+    1.02
+  ],
+  "mass_kg": 9.90441843525277,
+  "peak_hand_speed_m_s": 0.2817961349660993,
+  "task": "A",
+  "episode_id": "A_0023",
+  "split": "test",
+  "initial_offset_deg": 0.8880875879230608,
+  "leg_duration_s": 2.1299848352051867,
+  "hand_radius_m": 0.33254121113902746,
+  "duration_s": 10.019939340820747,
+  "opensim_version": "4.6-2026-06-22-85aaf64",
+  "initial_integral_torque_Nm": 14.128941696211633
+}
