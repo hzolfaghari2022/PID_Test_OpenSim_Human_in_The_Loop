@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_S00_multiple_targets_0001",
+  "task": "A",
+  "split": "validation",
+  "status": "completed",
+  "accepted_for_imitation": true,
+  "error": "",
+  "all_samples": {
+    "rmse_deg": 0.6921387315391188,
+    "mae_deg": 0.5881097862241585,
+    "max_abs_error_deg": 1.2303860246819052,
+    "peak_tension_N": 316.91502020751966,
+    "mean_tension_N": 272.65686959393696,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 34.54792164820657,
+    "peak_actual_hand_speed_m_s": 0.29412099081812415
+  },
+  "motion_only": {
+    "rmse_deg": 0.747955071388292,
+    "mae_deg": 0.6654434740009216,
+    "max_abs_error_deg": 1.2303860246819052,
+    "peak_tension_N": 316.91502020751966,
+    "mean_tension_N": 286.1962317661237,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 34.54792164820657,
+    "peak_actual_hand_speed_m_s": 0.29412099081812415
+  },
+  "sample_count": 4832,
+  "wall_seconds": 17.923638199921697,
+  "last_recorded_time_s": 9.661789265079852
+}
