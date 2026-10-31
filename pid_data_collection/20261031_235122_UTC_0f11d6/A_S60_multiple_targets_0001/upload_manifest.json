@@ -1,0 +1,24 @@
+{
+  "run_id": "A_S60_multiple_targets_0001",
+  "files": {
+    "console.log": "dad71b9f9655bc1a33134e52332b71f89830d317772a9f286f65263584a46aef",
+    "error.txt": "dbb7576b5c8be2f8499e3359bc5776c97632ae35d7f7cbc902648761d7ee1d19",
+    "failure_terminal_state.json": "3545959b7acc1486da01b04a95d894af58791f281fd5e87713b7404ed42645c6",
+    "playback_model.osim": "ff80eb2d35a75a419317473e85c9386ddb5c5c7d596f9b82b941429bc2f530bc",
+    "settings.json": "2c4584dee6fa9e9330c642e6885432de96e7bd717b8461b97cad524abfecc136",
+    "signals.csv": "e45119c3fe9a16d4a7e490d4cc9e87d1765849e862160dbc6b35426314694cc1",
+    "source/add_dumbbell.py": "10072810b3ec81ae4090bc324a6f15d4d784da328624ae6ce60ac5df37eb7d55",
+    "source/arm26_exosuit.osim": "21f5506eeb62b2225012458505949f21162baa519e16e97a58df6ac891b71591",
+    "source/collect_pid_data.py": "f2d9ee4904455db8f4b65a546119c99d2825784c0b18c489a0217aa8b4eebeac",
+    "source/export_training_data.py": "045af4f209da632a69a969dce6adda7c439e453d6ee0078b3eb017a4cafa9cbc",
+    "source/live_viewer.py": "b9e7baa12a1bfbbe4eebfb49e6fdb0c1ae1ab42bf2ea049edf7a30f50f2708b9",
+    "source/original_pi_demo.py": "1d90ba5e2fdebecd3221d298aa06da76fa8ca06847cfc4db4ae96333af3a8d7a",
+    "source/trajectories.py": "f7f6ee4856c9a73ed0e2c95727bd0db84bc041b7ca7fd3d15905d734d46af7be",
+    "state_names.json": "f357d514eb7aab7720e4998e834ef3a5006f9d2e2d0c7c338dc79f1c68bba3ee",
+    "states.csv": "8757c5007a0ffb2ccde3b39811aa1cfdcba08297f7da119af9f12726c29815c5",
+    "states.sto": "7308ffc7ae0983ab067068aaa8d6b9184f0c53b55273e8f2fed59f4bb8612c57",
+    "status.json": "526bcff6159e7eae1e2b232d3a28a89af657d3e6d7c8d178588a5486d95603bb",
+    "tracking.png": "caea133ce405401b43587d8b47a165405c71283afe05a4be3010c11b988d921c",
+    "training_arrays.npz": "9b5c0e3c2f847cacba33770c41a7f26b564195f8eee7b3951e1457f0388ff7ce"
+  }
+}
