@@ -1,0 +1,22 @@
+{
+  "run_id": "A_S30_smooth_lift_0001",
+  "files": {
+    "console.log": "dad71b9f9655bc1a33134e52332b71f89830d317772a9f286f65263584a46aef",
+    "playback_model.osim": "6fd6e1cc88d2ac310e37f7acb7fa076d9e55d2c7261e37f87968b03b134b2ed8",
+    "settings.json": "54a8202e3432b231dd55ab755057503af904928556ae66475865f888827a23c2",
+    "signals.csv": "8603beddf1a504241aa55e10615271d5305e733a62088812992b8af981664f18",
+    "source/add_dumbbell.py": "10072810b3ec81ae4090bc324a6f15d4d784da328624ae6ce60ac5df37eb7d55",
+    "source/arm26_exosuit.osim": "21f5506eeb62b2225012458505949f21162baa519e16e97a58df6ac891b71591",
+    "source/collect_pid_data.py": "f2d9ee4904455db8f4b65a546119c99d2825784c0b18c489a0217aa8b4eebeac",
+    "source/export_training_data.py": "045af4f209da632a69a969dce6adda7c439e453d6ee0078b3eb017a4cafa9cbc",
+    "source/live_viewer.py": "b9e7baa12a1bfbbe4eebfb49e6fdb0c1ae1ab42bf2ea049edf7a30f50f2708b9",
+    "source/original_pi_demo.py": "1d90ba5e2fdebecd3221d298aa06da76fa8ca06847cfc4db4ae96333af3a8d7a",
+    "source/trajectories.py": "f7f6ee4856c9a73ed0e2c95727bd0db84bc041b7ca7fd3d15905d734d46af7be",
+    "state_names.json": "f357d514eb7aab7720e4998e834ef3a5006f9d2e2d0c7c338dc79f1c68bba3ee",
+    "states.csv": "5166cbb9fc0f18c19e5d39e2bedd35955e9a8d5581fd9ea932aadd6eee64240a",
+    "states.sto": "7f58b6c76646611de55f01a544d39e7522108d5d4b681df2bbd13ee710104722",
+    "status.json": "6458c561565b0bb8c3696173ff8879c76cd006ee02fb7d207eb0adbb67b43076",
+    "tracking.png": "abc39d4c270bb59f5e76ea0eaf47116f3cb969aa6af93fe531bfb53b0580f4d4",
+    "training_arrays.npz": "59df6737860a6551fc3ed97ccd9aa932a5cb7b0b9658995cca8f9c866bba9387"
+  }
+}
