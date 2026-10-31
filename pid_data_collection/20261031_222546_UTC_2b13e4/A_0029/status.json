@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_0029",
+  "task": "A",
+  "split": "test",
+  "status": "completed",
+  "accepted_for_imitation": true,
+  "error": "",
+  "all_samples": {
+    "rmse_deg": 0.8008728310282989,
+    "mae_deg": 0.6411819873552363,
+    "max_abs_error_deg": 1.408874130318701,
+    "peak_tension_N": 369.0321388609399,
+    "mean_tension_N": 253.2289219224362,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 34.86103095232516,
+    "peak_actual_hand_speed_m_s": 0.3216848189000956
+  },
+  "motion_only": {
+    "rmse_deg": 0.8642303979082381,
+    "mae_deg": 0.7203948644242375,
+    "max_abs_error_deg": 1.408874130318701,
+    "peak_tension_N": 302.7214691908775,
+    "mean_tension_N": 267.3707829548682,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 34.86103095232516,
+    "peak_actual_hand_speed_m_s": 0.3216848189000956
+  },
+  "sample_count": 4936,
+  "wall_seconds": 14.758131100097671,
+  "last_recorded_time_s": 9.869862346902925
+}
