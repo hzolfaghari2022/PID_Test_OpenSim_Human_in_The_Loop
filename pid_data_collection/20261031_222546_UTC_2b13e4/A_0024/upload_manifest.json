@@ -1,0 +1,20 @@
+{
+  "run_id": "A_0024",
+  "files": {
+    "console.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "playback_model.osim": "f572bee14e7e45234d07c1084df02256231556b506a0a7e63afb8d79aff7bd28",
+    "settings.json": "a84ec6835b27c47bd83adfed40894c9ca04510f327ab8d129ca5adbf6a116c4a",
+    "signals.csv": "9c3c858059ba13d169f6312ed988db2694965fd21db3eeebb1af963e9e6d24dd",
+    "source/add_dumbbell.py": "10072810b3ec81ae4090bc324a6f15d4d784da328624ae6ce60ac5df37eb7d55",
+    "source/arm26_exosuit.osim": "21f5506eeb62b2225012458505949f21162baa519e16e97a58df6ac891b71591",
+    "source/collect_pid_data.py": "992815feb811c93900abe55dac0258b562376ecc3d4e9f36e447e7cc1746abdb",
+    "source/export_training_data.py": "d10e75943a609f913c91901a57c15096bac706ac82d0f02b06557300012e8c25",
+    "source/original_pi_demo.py": "1d90ba5e2fdebecd3221d298aa06da76fa8ca06847cfc4db4ae96333af3a8d7a",
+    "state_names.json": "f357d514eb7aab7720e4998e834ef3a5006f9d2e2d0c7c338dc79f1c68bba3ee",
+    "states.csv": "5c1bb8323a77ebd545ac18caa69ec14b0c20213e047598f6b5d5454c0868c863",
+    "states.sto": "07636132bbfbf329bd5f3ddeb5242816af1d2aa0809ffb4f15bc4e781d8975a2",
+    "status.json": "e9b3de4c87a3523ccb6b87b09d0e07caf4e35be522c6f04b81c7664ae3622f82",
+    "tracking.png": "5530ff9b18356804244910be9c2d0a2d07be6ccc7b5d40d467610eee3826ac98",
+    "training_arrays.npz": "21fb7e70f1bc7dc866e43c0bd52242acd4544b8cb65e8d1dd2ae85104357470b"
+  }
+}
