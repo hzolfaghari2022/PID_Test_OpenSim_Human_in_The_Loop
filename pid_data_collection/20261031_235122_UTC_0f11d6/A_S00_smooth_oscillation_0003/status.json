@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_S00_smooth_oscillation_0003",
+  "task": "A",
+  "split": "train",
+  "status": "completed",
+  "accepted_for_imitation": true,
+  "error": "",
+  "all_samples": {
+    "rmse_deg": 0.6314152880141001,
+    "mae_deg": 0.5066606552511645,
+    "max_abs_error_deg": 1.0921143222123857,
+    "peak_tension_N": 302.165062089173,
+    "mean_tension_N": 264.61920999479617,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.055050922102945224,
+    "peak_abs_assistance_torque_Nm": 31.20951635615284,
+    "peak_actual_hand_speed_m_s": 0.3100286368646737
+  },
+  "motion_only": {
+    "rmse_deg": 0.7020534404264267,
+    "mae_deg": 0.5983693618052462,
+    "max_abs_error_deg": 1.0921143222123857,
+    "peak_tension_N": 302.165062089173,
+    "mean_tension_N": 281.39457161497273,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 31.20951635615284,
+    "peak_actual_hand_speed_m_s": 0.3100286368646737
+  },
+  "sample_count": 3633,
+  "wall_seconds": 13.91848750016652,
+  "last_recorded_time_s": 7.263543418887371
+}
