@@ -1,0 +1,23 @@
+{
+  "episode_id": "B_S30_smooth_oscillation_0002",
+  "task": "B",
+  "split": "train",
+  "status": "failed",
+  "accepted_for_imitation": false,
+  "error": "Traceback (most recent call last):\n  File \"C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Continoual Learning\\Continual Learning_Implementation\\Arm26_Complete_Data_Collector_With_Live_Plots\\Arm26_MultiTrajectory_Collector\\collect_pid_data.py\", line 176, in run_episode\n    raise RuntimeError(f'Outside checked geometry: t={t:g}, q={math.degrees(q):g}, moment arm={arm:g}')\nRuntimeError: Outside checked geometry: t=0.318, q=-0.110724, moment arm=0.0300755\n",
+  "all_samples": {
+    "rmse_deg": 8.869343711109945,
+    "mae_deg": 6.522379314777913,
+    "max_abs_error_deg": 19.86176415509845,
+    "peak_tension_N": 650.0,
+    "mean_tension_N": 641.057483467561,
+    "upper_saturation_percent": 93.08176100628931,
+    "clipped_percent": 93.08176100628931,
+    "peak_abs_assistance_torque_Nm": 36.25546013563665,
+    "peak_actual_hand_speed_m_s": 0.7205637674623013
+  },
+  "motion_only": null,
+  "sample_count": 159,
+  "wall_seconds": 1.0748290999326855,
+  "last_recorded_time_s": 0.3160000000000002
+}
