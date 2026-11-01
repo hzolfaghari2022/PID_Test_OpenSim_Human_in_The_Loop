@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\hzlfghri\OneDrive - The University of Memphis\Desktop\Continoual Learning\Continual Learning_Implementation\Arm26_Complete_Data_Collector_With_Live_Plots\Arm26_MultiTrajectory_Collector\collect_pid_data.py", line 176, in run_episode
+    raise RuntimeError(f'Outside checked geometry: t={t:g}, q={math.degrees(q):g}, moment arm={arm:g}')
+RuntimeError: Outside checked geometry: t=0.214, q=-0.249962, moment arm=0.0298992
