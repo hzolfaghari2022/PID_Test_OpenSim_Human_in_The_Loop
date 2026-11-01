@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_S60_smooth_lift_0002",
+  "task": "A",
+  "split": "test",
+  "status": "failed",
+  "accepted_for_imitation": false,
+  "error": "Traceback (most recent call last):\n  File \"C:\\Users\\hzlfghri\\OneDrive - The University of Memphis\\Desktop\\Continoual Learning\\Continual Learning_Implementation\\Arm26_Complete_Data_Collector_With_Live_Plots\\Arm26_MultiTrajectory_Collector\\collect_pid_data.py\", line 176, in run_episode\n    raise RuntimeError(f'Outside checked geometry: t={t:g}, q={math.degrees(q):g}, moment arm={arm:g}')\nRuntimeError: Outside checked geometry: t=0.516, q=-0.21647, moment arm=0.0299416\n",
+  "all_samples": {
+    "rmse_deg": 7.8987253499737555,
+    "mae_deg": 5.556835508300035,
+    "max_abs_error_deg": 19.98607140930149,
+    "peak_tension_N": 650.0,
+    "mean_tension_N": 645.8005553208873,
+    "upper_saturation_percent": 94.57364341085271,
+    "clipped_percent": 94.57364341085271,
+    "peak_abs_assistance_torque_Nm": 36.04840746707191,
+    "peak_actual_hand_speed_m_s": 0.6657932220018111
+  },
+  "motion_only": {
+    "rmse_deg": 19.209015228600443,
+    "mae_deg": 19.202294407960434,
+    "max_abs_error_deg": 19.98607140930149,
+    "peak_tension_N": 650.0,
+    "mean_tension_N": 650.0,
+    "upper_saturation_percent": 100.0,
+    "clipped_percent": 100.0,
+    "peak_abs_assistance_torque_Nm": 20.92681272008738,
+    "peak_actual_hand_speed_m_s": 0.6657932220018111
+  },
+  "sample_count": 258,
+  "wall_seconds": 1.143891999963671,
+  "last_recorded_time_s": 0.5140000000000003
+}
