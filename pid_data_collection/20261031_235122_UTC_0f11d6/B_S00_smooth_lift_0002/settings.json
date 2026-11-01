@@ -1,0 +1,64 @@
+{
+  "episodes_per_task": 100,
+  "seed": 20261030,
+  "start_deg": 20.0,
+  "target_deg": 80.0,
+  "start_deg_range": [
+    15.0,
+    25.0
+  ],
+  "initial_offset_deg_range": [
+    -1.0,
+    1.0
+  ],
+  "speed_factor_range": [
+    0.9,
+    1.1
+  ],
+  "cycles": 2,
+  "start_hold_s": 0.5,
+  "end_hold_s": 1.0,
+  "kp": 1000.0,
+  "ki": 50.0,
+  "kd": 60.0,
+  "force_cap_N": 650.0,
+  "dt_s": 0.002,
+  "integrator_accuracy": 1e-06,
+  "muscle_excitation": 0.01,
+  "strength_scale": 1.0,
+  "preload_integral": true,
+  "accept_rmse_deg": 2.0,
+  "accept_max_error_deg": 5.0,
+  "episode_timeout_s": 600,
+  "save_episode_plots": true,
+  "mass_factor_range": [
+    0.98,
+    1.02
+  ],
+  "live_viewer": true,
+  "episodes_per_combination": 20,
+  "shoulder_angles_deg": [
+    0,
+    30,
+    60
+  ],
+  "trajectory_families": [
+    "smooth_lift",
+    "smooth_oscillation",
+    "multiple_targets"
+  ],
+  "mass_kg": 20.045648626737314,
+  "peak_hand_speed_m_s": 0.5488338353038332,
+  "task": "B",
+  "shoulder_deg": 0,
+  "trajectory": "smooth_lift",
+  "split": "train",
+  "episode_id": "B_S00_smooth_lift_0002",
+  "initial_offset_deg": -0.835453167908409,
+  "trajectory_time_scale": 0.2974229626554093,
+  "motion_duration_s": 2.3793837012432744,
+  "duration_s": 3.8793837012432744,
+  "hand_radius_m": 0.3325412111390275,
+  "opensim_version": "4.6-2026-06-22-85aaf64",
+  "initial_integral_torque_Nm": 20.79000101389399
+}
