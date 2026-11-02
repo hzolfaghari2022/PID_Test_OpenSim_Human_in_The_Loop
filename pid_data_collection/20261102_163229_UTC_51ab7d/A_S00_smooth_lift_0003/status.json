@@ -1,0 +1,33 @@
+{
+  "episode_id": "A_S00_smooth_lift_0003",
+  "task": "A",
+  "split": "train",
+  "status": "completed",
+  "accepted_for_imitation": true,
+  "error": "",
+  "all_samples": {
+    "rmse_deg": 0.059875764249816325,
+    "mae_deg": 0.014217300716623442,
+    "max_abs_error_deg": 0.5200558841403394,
+    "peak_tension_N": 304.377689150419,
+    "mean_tension_N": 254.7150478259012,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 35.077137720369436,
+    "peak_actual_hand_speed_m_s": 0.2725875112263238
+  },
+  "motion_only": {
+    "rmse_deg": 0.0040069490591006845,
+    "mae_deg": 0.0038299624779024525,
+    "max_abs_error_deg": 0.0058263694790158214,
+    "peak_tension_N": 304.377689150419,
+    "mean_tension_N": 273.3428039028293,
+    "upper_saturation_percent": 0.0,
+    "clipped_percent": 0.0,
+    "peak_abs_assistance_torque_Nm": 35.077137720369436,
+    "peak_actual_hand_speed_m_s": 0.2725875112263238
+  },
+  "sample_count": 3147,
+  "wall_seconds": 13.01982089993544,
+  "last_recorded_time_s": 6.291041310032408
+}
